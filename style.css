@@ -31,13 +31,13 @@ ul{
 
 .main-wrap{
   position: relative;
-  background-color: #FFFFFF;
   text-align: center;
   height: 100vh;
   background-image: url(images/QRU.JPG);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
+    background-color: #FFFFFF;
 }
 
 .cen-wrap{
