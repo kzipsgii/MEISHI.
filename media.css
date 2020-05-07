@@ -1,0 +1,39 @@
+/* モバイル版
+-------------------------- */
+
+@media(max-width: 1000px){
+  .cen-wrap{
+    writing-mode: vertical-rl;
+    width: auto;
+  }
+  .cen-wrap h1{
+    white-space: nowrap;
+  }
+
+  .cen-wrap p{
+    padding-left: 0;
+  }
+
+  .cen-wrap h3{
+    letter-spacing: 1.5rem;
+    text-align: center;
+  }
+
+  .cont-wrap{
+    width: 80%;
+    height: 80%;
+  }
+
+  .left-wrap{
+    display:none;
+  }
+
+  .right-wrap{
+    display: inline;
+    writing-mode: vertical-rl;
+  }
+
+  a{
+    text-decoration: none;
+  }
+}
