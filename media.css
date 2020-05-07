@@ -2,6 +2,10 @@
 -------------------------- */
 
 @media(max-width: 1000px){
+  .MEISHI{
+    font-size: 1.5rem;
+  }
+  
   .cen-wrap{
     writing-mode: vertical-rl;
     width: auto;
