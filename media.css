@@ -5,7 +5,9 @@
   .MEISHI{
     font-size: 1.5rem;
   }
-  
+  .KAMI{
+    max-width: 80%;
+  }
   .cen-wrap{
     writing-mode: vertical-rl;
     width: auto;
